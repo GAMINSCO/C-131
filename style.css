@@ -1,0 +1,63 @@
+/*cocossd*/
+
+.heading {
+   font-size: 42px;
+   width: 100%;
+   margin-top: 0px;
+   background-color: rgb(110, 216, 219);
+   height: 70px;
+   border: 1px dotted grey;
+   border-bottom-right-radius: 15px;
+   border-bottom-left-radius: 15px;
+}
+
+body {
+   background-size: cover;
+   background-position: center;
+}
+
+#status {
+   font-size: 24px;
+   background-color: rgb(255, 86, 120);
+   width: 20%;
+   height: 40px;
+   text-align: left;
+   padding: 5px 1px 1px 6px;
+   border: 1px dashed black;
+   border-radius: 25px;
+}
+
+canvas {
+   border: 1px solid black;
+   border-radius: 25px;
+}
+
+.header {
+   font-size: 78px;
+   font-family: monospace;
+   font-weight: 600;
+   width: 100%;
+   background-color: rgba(255, 169, 198, 0.062);
+   margin: 0;
+   font-style: normal;
+}
+
+.button{
+   font-size: 32px;
+   color: black;
+   background-color: #fd8dee18;
+   border: 2px dotted black;
+   border-radius: 25px;
+   width: 60px !important;
+   height: 30px !important;
+   margin: 5px 5px 5px 5px;
+   padding: 10px 10px 10px 10px;
+}
+
+.button1 {
+   float: left;
+   width: 80px;
+   height: 40px;
+   font-size: 21px;
+   margin: 5px 5px 25px 15px;
+}
